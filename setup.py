@@ -6,7 +6,8 @@ setup(
     author='João "John Parsec" Manoel',
     license='MIT',
     install_requires=[
-        'icecream'
+        'icecream',
+        'testresources'
     ],
     entry_points = {
         'console_scripts': [
